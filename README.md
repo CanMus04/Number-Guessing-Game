@@ -21,10 +21,3 @@ I followed a tutorial from YouTube videos to build the game and debugged it as I
 ## Technologies Used
 - Python (for the game logic)
 
-## Instructions to Run
-
-1. Clone this repository.
-2. Run the Python script using your terminal/command prompt:
-   ```bash
-   python number_guessing_game.py
-
